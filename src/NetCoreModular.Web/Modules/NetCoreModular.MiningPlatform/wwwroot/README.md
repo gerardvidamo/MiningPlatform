@@ -1,0 +1,1 @@
+# NetCoreModular.MiningPlatform/wwwroot

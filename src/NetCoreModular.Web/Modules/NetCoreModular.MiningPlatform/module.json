@@ -1,0 +1,14 @@
+{
+  "ModuleTitle": "Mining Platform",
+  "Author": "Gerard Vidamo",
+  "Email": "cpegerardvidamo@gmail.com",
+  "Website": "",
+  "DemoUrl": "",
+  "AntiForgery": true,
+  "Description": "MiningPlatform is a module that allows you to deploy, monitor, manage and stay notified from your mining rigs.",
+  "Version": "0.0.1",
+  "NcmVersion": "0.0.1",
+  "Dependencies": [],
+  "TablePrefix": "",
+  "Category": "CryptoCurrency,CryptoMining"
+}
